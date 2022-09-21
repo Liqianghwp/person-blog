@@ -27,10 +27,10 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * @author 13
+ * @author LiQiang
  * @qq交流群 796794009
  * @email 2449207463@qq.com
- * @link http://13blog.site
+ * @link http://LiQiangblog.site
  */
 @Controller
 @RequestMapping("/admin")
